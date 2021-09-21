@@ -4,7 +4,7 @@ I'm a Software Developer specializing in C#.
 
 I like to code, work hard and enjoy life. If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sandis-blumentals/) and [Facebook](https://www.facebook.com/sandis.blumentals) profiles. 
 
-My experience with the technologies listed in the **toolbox** down below.
+My experience with the technologies is listed in the **toolbox** down below.
 
 ---
 🧰 **Toolbox**
