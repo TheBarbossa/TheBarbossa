@@ -1,6 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Sandis Blūmentāls (TheBarbossa)
 ---
-I'm Software Developer specializing in C#. 
+I'm a Software Developer specializing in C#. 
 
 I like to code, work hard and enjoy life. If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sandis-blumentals/) and [Facebook](https://www.facebook.com/sandis.blumentals) profiles. 
 
