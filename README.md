@@ -26,7 +26,7 @@ My Skills list:
 
 :small_blue_diamond: HTML & CSS, VueJS, TypeScript & NodeJS and Java basics
 
-I like to code, learn and code some more. Always seeking for the best and giving up is not in my dictionary. 
+I like to learn, code and code some more. Always seeking for the best and giving up is not in my dictionary. 
 
 If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sandis-blumentals/) and [Facebook](https://www.facebook.com/sandis.blumentals) profiles. 
 
