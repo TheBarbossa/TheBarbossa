@@ -4,27 +4,27 @@ I'm a Software Developer specializing in C#.
 
 My Skills list: 
 
-:point_right:Unity
+:small_blue_diamond: Unity
 
-:point_right:Git
+:small_blue_diamond: Git
 
-:point_right:C#
+:small_blue_diamond: C#
 
-:point_right:.NET
+:small_blue_diamond: .NET
 
-:point_right:Relational Databases & SQL
+:small_blue_diamond: Relational Databases & SQL
 
-:point_right:HTTP & Web API Basics
+:small_blue_diamond: HTTP & Web API Basics
 
-:point_right:Unit Testing
+:small_blue_diamond: Unit Testing
 
-:point_right:Test Driven Development
+:small_blue_diamond: Test Driven Development
 
-:point_right:Clean Code, SOLID
+:small_blue_diamond: Clean Code, SOLID
 
-:point_right:Design Patterns
+:small_blue_diamond: Design Patterns
 
-:point_right:HTML & CSS, VueJS, TypeScript & NodeJS and Java basics
+:small_blue_diamond: HTML & CSS, VueJS, TypeScript & NodeJS and Java basics
 
 I like to code, learn and code some more. Always seeking for the best and giving up is not in my dictionary. 
 
