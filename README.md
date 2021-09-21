@@ -2,9 +2,33 @@
 ---
 I'm a Software Developer specializing in C#. 
 
-I like to code, work hard and enjoy life. If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sandis-blumentals/) and [Facebook](https://www.facebook.com/sandis.blumentals) profiles. 
+My Skills list: 
 
-My experience with the technologies is listed in the **toolbox** down below.
+:point_right:Unity
+
+:point_right:Git
+
+:point_right:C#
+
+:point_right:.NET
+
+:point_right:Relational Databases & SQL
+
+:point_right:HTTP & Web API Basics
+
+:point_right:Unit Testing
+
+:point_right:Test Driven Development
+
+:point_right:Clean Code, SOLID
+
+:point_right:Design Patterns
+
+:point_right:HTML & CSS, VueJS, TypeScript & NodeJS and Java basics
+
+I like to code, learn and code some more. Always seeking for the best and giving up is not in my dictionary. 
+
+If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sandis-blumentals/) and [Facebook](https://www.facebook.com/sandis.blumentals) profiles. 
 
 ---
 🧰 **Toolbox**
