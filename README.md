@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Sandis Blūmentāls (TheBarbossa)
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Sandis Blūmentāls "TheBarbossa"
 ---
 I'm a Software Developer specializing in C#. 
 
