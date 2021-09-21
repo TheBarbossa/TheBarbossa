@@ -1,6 +1,10 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Sandis Blūmentāls (TheBarbossa)
 ---
-I'm Software Developer specializing in C#. I like to code, work hard and enjoy life. If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sandis-blumentals/) and [Facebook](https://www.facebook.com/sandis.blumentals) profiles. My experience with the technologies listed in the **toolbox** down below.
+I'm Software Developer specializing in C#. 
+
+I like to code, work hard and enjoy life. If you want to contact me, feel free to visit my [LinkedIn](https://www.linkedin.com/in/sandis-blumentals/) and [Facebook](https://www.facebook.com/sandis.blumentals) profiles. 
+
+My experience with the technologies listed in the **toolbox** down below.
 <!--
 **TheBarbossa/TheBarbossa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
